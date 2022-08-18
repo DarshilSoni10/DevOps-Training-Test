@@ -1,0 +1,5 @@
+1. Programming Language (pyhton)
+2. Training of git and github
+3. What is Docker?
+4. Create a team and repository in Github with Stavan and Harsh, do practical accordingly...
+
