@@ -2,9 +2,11 @@ Programming Language (pyhton)
 Training of git and github
 What is Docker?
 Create a team and repository in Github with Stavan and Harsh, do practical accordingly...
-What is YAML?
+What is YAML? (Yet Another Markup Language) YAML file starts with --- (name, on and jobs should on the same level) spacing is very important
+yaml only used for workflow.
 What is Angular?
 What is Scrum?
-What is Kubernets?
+What is Kubernets? Kubernets services on Azure
 Managing events i.e, github event, know yaml properly, learn workflow in github for that Yaml is must,
 important to understand the agile environment. codeql 
+Owasp top 10
