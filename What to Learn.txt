@@ -3,4 +3,5 @@
 3. What is Docker?
 4. Create a team and repository in Github with Stavan and Harsh, do practical accordingly...
 5. What is YAML?
-
+6. What is Angular?
+7. What is Scrum?
