@@ -5,3 +5,6 @@ Create a team and repository in Github with Stavan and Harsh, do practical accor
 What is YAML?
 What is Angular?
 What is Scrum?
+What is Kubernets?
+Managing events i.e, github event, know yaml properly, learn workflow in github for that Yaml is must,
+important to understand the agile environment. codeql 
