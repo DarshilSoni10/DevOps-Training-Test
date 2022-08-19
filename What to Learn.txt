@@ -1,7 +1,7 @@
-1. Programming Language (pyhton)
-2. Training of git and github
-3. What is Docker?
-4. Create a team and repository in Github with Stavan and Harsh, do practical accordingly...
-5. What is YAML?
-6. What is Angular?
-7. What is Scrum?
+Programming Language (pyhton)
+Training of git and github
+What is Docker?
+Create a team and repository in Github with Stavan and Harsh, do practical accordingly...
+What is YAML?
+What is Angular?
+What is Scrum?
